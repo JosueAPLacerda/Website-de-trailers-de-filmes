@@ -2,7 +2,7 @@
 
 Por Josué Alves Pinheiro de Lacerda
 
-Website de trailers de filmes, parte do curso Full Stack Web Developer Nanodegree da Udacity.
+Website de trailers de filmes, primeiro projeto do curso Desenvolvedor Full Stack da Udacity.
 ___
 **O que isto é e o que isto faz**
 
