@@ -15,9 +15,9 @@ ___
 **Conteúdos do Projeto**
 Este projeto consiste nos arquivos listados abaixo:
 
-· projeto_1.py - principal script a ser executado;
-· media.py - contém a classe Movie que armazena detalhes a respeito de filme;
-· fresh_tomatoes.py – cria o arquivo HTML para o website (fornecido pela Udacity).
+1. projeto_1.py - principal script a ser executado;
+2. media.py - contém a classe Movie que armazena detalhes a respeito de filme;
+3. fresh_tomatoes.py – cria o arquivo HTML para o website (fornecido pela Udacity).
 ___
 **Como executar o Projeto**
 1. Faça o download do arquivo zip do projeto para o seu computador e descompacte, ou clone o repositório para o seu desktop.
