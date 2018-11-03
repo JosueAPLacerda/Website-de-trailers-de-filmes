@@ -13,6 +13,7 @@ ___
 Versão 2.x do Python ou acima. O arquivo executável deve estar inserido no diretório padrão onde o Python está configurado.
 ___
 **Conteúdos do Projeto**
+
 Este projeto consiste nos arquivos listados abaixo:
 
 1. projeto_1.py - principal script a ser executado;
@@ -20,6 +21,7 @@ Este projeto consiste nos arquivos listados abaixo:
 3. fresh_tomatoes.py – cria o arquivo HTML para o website (fornecido pela Udacity).
 ___
 **Como executar o Projeto**
+
 1. Faça o download do arquivo zip do projeto para o seu computador e descompacte, ou clone o repositório para o seu desktop.
 2. Salve todos os arquivos em uma mesma pasta;
 3. Abra a interface baseada em texto para o seu sistema operacional (por exemplo, a janela do terminal no Linux, ou o prompt de comando no Windows);
@@ -32,6 +34,7 @@ Seu navegador padrão abrirá uma nova guia exibindo o site do trailer do filme.
 
 ___
 **Descrição para crédito extra**
+
 Os seguintes recursos foram implementados para obter um crédito extra da Udacity:
 
 1. Alterada a cor de fundo e a do texto para criar um tema escuro para o website
@@ -40,6 +43,7 @@ Os seguintes recursos foram implementados para obter um crédito extra da Udacit
 4. Adicionada uma curta sinopse do filme na classe Movie que é exibida no website
 ___
 **Informações adicionais**
+
 Este documento README é baseado no template sugerido por Philip Coach em um [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524) no fórum da Udacity.
 
 
