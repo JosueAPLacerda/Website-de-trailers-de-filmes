@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 """Aqui é definida a classe Movie que contém os detalhes sobre um filme"""
 import webbrowser
 
