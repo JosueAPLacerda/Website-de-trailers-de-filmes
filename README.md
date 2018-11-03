@@ -14,6 +14,7 @@ Versão 2.x do Python ou acima. O arquivo executável deve estar inserido no dir
 ___
 **Conteúdos do Projeto**
 Este projeto consiste nos arquivos listados abaixo:
+
 · projeto_1.py - principal script a ser executado
 · media.py - contém a classe Movie que armazena detalhes a respeito de filme
 · fresh_tomatoes.py – cria o arquivo HTML para o website (fornecido pela Udacity)
