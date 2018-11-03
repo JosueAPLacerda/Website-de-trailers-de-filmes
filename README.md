@@ -33,13 +33,13 @@ Seu navegador padrão abrirá uma nova guia exibindo o site do trailer do filme.
 ___
 **Descrição para crédito extra**
 Os seguintes recursos foram implementados para obter um crédito extra da Udacity:
-· Alterada a cor de fundo e a do texto para criar um tema escuro para o website
-· Adicionado sombreamento para destacar uma imagem de um pôster, quando o usuário posicionar o cursor sobre ela
-· Adicionado uma data de lançamento na classe Movie que é exibida no website
-· Adicionada uma curta sinopse do filme na classe Movie que é exibida no website
+
+1. Alterada a cor de fundo e a do texto para criar um tema escuro para o website
+2. Adicionado sombreamento para destacar uma imagem de um pôster, quando o usuário posicionar o cursor sobre ela
+3. Adicionado uma data de lançamento na classe Movie que é exibida no website
+4. Adicionada uma curta sinopse do filme na classe Movie que é exibida no website
 ___
 **Informações adicionais**
-
 Este documento README é baseado no template sugerido por Philip Coach em um [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524) no fórum da Udacity.
 
 
