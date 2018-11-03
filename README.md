@@ -1,4 +1,4 @@
-﻿# Projeto_1: Website de trailers de filmes
+﻿# Projeto_1: Website trailers de filmes
 
 Por Josué Alves Pinheiro de Lacerda
 
