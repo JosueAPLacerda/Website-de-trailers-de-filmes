@@ -1,3 +1,4 @@
+"""Armazena detalhes sobre filmes e os exibe em um website"""
 # -*- coding: utf-8 -*-
 import fresh_tomatoes
 import media
@@ -38,9 +39,12 @@ def main():
                                    "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/A_Beautiful_Mind_Poster.jpg/220px-A_Beautiful_Mind_Poster.jpg",
                                    "https://www.youtube.com/watch?v=WFJgUm7iOKw",
                                    "02/15/2002")
-    movies = [the_shining, pi, seven, eyes_wide_shut, on_the_road, a_beautiful_mind]
-    fresh_tomatoes.open_movies_page(movies)
 
+    """Armazena os objetos da classe Movie em uma lista""" 
+    movies = [the_shining, pi, seven, eyes_wide_shut, on_the_road, a_beautiful_mind]
+    
+    """Abre um website no navegador padrão do usuário contendo as informações armazenadas e os filmes listados"""
+    fresh_tomatoes.open_movies_page(movies)
 
 if __name__ == '__main__':
     main()
