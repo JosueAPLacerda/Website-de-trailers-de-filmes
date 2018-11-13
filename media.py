@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-"""Aqui é definida a classe Movie que contém os detalhes sobre um filme"""
+"""Aqui é definida a classe Movie que contém os
+   detalhes sobre um filme"""
 import webbrowser
 
 
@@ -11,9 +12,10 @@ class Movie(object):
         storyline: uma string que armazena uma curta sinopse do filme.
         poster_image_url: uma string que armazena a URL do poster do filme.
         trailer_youtube_url: uma string que armazena a URL do trailer do filme.
-        release_date: uma string que armazena a data de lançamento do filme."""
-
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, movie_release_date):
+        release_date: uma string que armazena a data de lançamento do filme.
+    """
+    def __init__(self, movie_title, movie_storyline, poster_image,
+                 trailer_youtube, movie_release_date):
         """Inicializa as variáveis de instância da classe Movie"""
         self.title = movie_title
         self.poster_image_url = poster_image
