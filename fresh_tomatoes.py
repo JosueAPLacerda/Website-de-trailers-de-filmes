@@ -134,6 +134,7 @@ movie_tile_content = '''
 </div>
 '''
 
+
 def create_movie_tiles_content(movies):
     # Conteúdo HTML para esta sessão da página
     content = ''
@@ -153,6 +154,7 @@ def create_movie_tiles_content(movies):
         )
     return content
 
+
 def open_movies_page(movies):
     # Cria ou substitui o arquivo de saída
     output_file = open('fresh_tomatoes.html', 'w')
@@ -166,4 +168,4 @@ def open_movies_page(movies):
 
     # Abre o arquivo de saída no navegador de internet
     url = os.path.abspath(output_file.name)
-    webbrowser.open('file://' + url, new=2)  
+    webbrowser.open('file://' + url, new=2)  # open in a new tab, if possible
